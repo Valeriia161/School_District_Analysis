@@ -6,7 +6,7 @@ In this analysis, I looked at the state testing outcomes for the PyCity School D
 ### `Resources`  <br/>
 •	Data Source: [Google]( Google), [PyCitySchools_Challenge](https://github.com/Valeriia161/School_District_Analysis/blob/main/PyCitySchools_Challenge.ipynb)<br/><br/>
 •	Software: Python 3.6.1, Jupyter, Git Bash.
-## `Summary` <br/>
+## `Results` <br/>
 #### How is the district summary affected? <br/>
 Excluding the Thomas High Schools 9th grade students Reading and Math scores were slightly affected by tenths of average scores in Average Math Score, Average Reading Score, % Passing Math, % Passing Reading, and % Overall Passing. 
 
